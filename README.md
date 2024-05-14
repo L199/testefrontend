@@ -4,7 +4,7 @@ Este documento fornece instruções sobre como baixar e instalar Java 17, config
 
 ## Parte 1: Instalar Java 17
 
-Consulte o arquivo [README_1.md](../testefrontend/README_FILES/README_1.md) para instruções sobre como instalar Java 17.
+Consulte o arquivo [README_1.md](README_FILES/README_1.md) para instruções sobre como instalar Java 17.
 
 ## Parte 2: Configuração Gradle
 
