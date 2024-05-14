@@ -17,4 +17,4 @@
 4. **Confirmar o Sucesso da Instalação:**
    Se a instalação foi bem-sucedida, voce ver a localização do executável do Java 17.
 
-<span style="font-size:larger;">[Voltar ao Início do Guia de Configuração do Ambiente](https://github.com/L199/testefrontend)</span>
+<span style="font-size:110%;">[Voltar ao Início do Guia de Configuração do Ambiente](https://github.com/L199/testefrontend)</span>
