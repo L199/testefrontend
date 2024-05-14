@@ -12,7 +12,7 @@
    ```sh
    where java
 <!-- Imagem com tamanho especificado -->
-<img src="wherejava.png" alt="Descrição da imagem" width="300" height="200">
+<img src="/imagem/wherejava.png" alt="Descrição da imagem" width="300" height="200">
 
 4. **Confirmar o Sucesso da Instalação:**
    Se a instalação foi bem-sucedida, voce ver a localização do executável do Java 17.
