@@ -1,6 +1,6 @@
 # 1. Instalar Java 17
-S# 1.1. Usar a Central de Software para Instalar o JDK 17
-1. *Procurar por "jdk";*
+# 1.1. Usar a Central de Software para Instalar o JDK 17
+1. **Procurar por "jdk":**
    Na barra de buSca da Central de Software, procure por "jdk".
 2. **Instalar a versão mais recente do JDK 17: **
    opensDe!
