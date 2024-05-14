@@ -17,4 +17,4 @@
 4. **Confirmar o Sucesso da Instalação:**
    Se a instalação foi bem-sucedida, voce ver a localização do executável do Java 17.
 
-[Voltar ao tutorial Guia de Configuração do Ambiente](../README.md)
+[Voltar ao tutorial Guia de Configuração do Ambiente](https://github.com/L199/testefrontend)
