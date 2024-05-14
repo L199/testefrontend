@@ -1,7 +1,3 @@
-
-### README2.md
-
-```markdown
 # 2. Configuração Gradle
 
 >- Para que o gradle seja acessível via linha de comando precisamos adicionar o caminho do binário ao PATH.
