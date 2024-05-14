@@ -11,6 +11,7 @@
    Após a instalação, abra o terminal e execute o seguinte comando para verificar se o JDK 17 foi instalado corretanenmte :
    ```sh
    where java
-   
+![Descrição da imagem](/imagem/wherejava.png)
+
 4. **Confirmar o Sucesso da Instalação:**
    Se a instalação foi bem-sucedida, voce ver a localização do executável do Java 17.
