@@ -1,11 +1,21 @@
+
+Agora, para juntar esses arquivos em um único README.md, você pode fazer assim:
+
+### README.md
+
+```markdown
 # Guia de Configuração do Ambiente
 
-Este guia fornece instruções sobre como configurar o ambiente de desenvolvimento.
+Este documento fornece instruções sobre como baixar e instalar Java 17, configurar Gradle, configurar certificados e configurar o IntelliJ IDEA. Siga os passos abaixo para configurar seu ambiente de desenvolvimento.
 
-- [Instruções de Instalação do Java 17](./README_FILES/README_1.md)
-- [Instruções de Configuração de Certificados do Jericho 2.3.0-beta](./README_FILES/README_2.md)
-- [Instruções de Configuração no IntelliJ IDEA](README_3.md)
+## Parte 1: Instalar Java 17
 
-Por favor, consulte os arquivos individuais para obter detalhes específicos sobre cada etapa de configuração.
+Consulte o arquivo [README_1.md](README_1.md) para instruções sobre como instalar Java 17.
 
+## Parte 2: Configuração Gradle
 
+Consulte o arquivo [README_1.md](README_1.md) para instruções sobre como configurar o Gradle.
+
+## Parte 3: Configurar Certificados do Jericho 2.3.0-beta
+
+Consulte o arquivo [README3.md](README3.md) para instruções sobre como configurar os certificados do Jericho 2.3.0-beta.
