@@ -1,11 +1,18 @@
-# README 1
+# Guia de Configuração do Ambiente
 
-Este é o primeiro README adicional. Aqui você pode colocar informações específicas, como detalhes sobre um módulo ou funcionalidade específica do projeto.
+Este documento fornece instruções sobre como baixar e instalar Java 17, configurar o Gradle, configurar certificados e configurar no IntelliJ IDEA. Siga os passos abaixo para configurar seu ambiente de desenvolvimento.
 
-## Seção 1
+## 1. Instalar Java 17
 
-Descrição detalhada da primeira seção.
+### 1.1. Usar a Central de Software para Instalar o JDK 17
 
-## Seção 2
+1. **Procurar por "jdk"**:  
+   Na barra de busca da Central de Software, procure por "jdk".
 
-Descrição detalhada da segunda seção.
+2. **Instalar a versão mais recente do JDK 17**:  
+   Certifique-se de selecionar o JDK fornecido pela Eclipse Foundation, não o OpenJDK. Clique em "Instalar".
+
+3. **Verificar a instalação**:  
+   Após a instalação, abra o terminal e execute o seguinte comando para verificar se o JDK 17 foi instalado corretamente:
+   ```sh
+   where java
