@@ -1,15 +1,10 @@
-# README 2
+# Configuração de Certificados do Jericho 2.3.0-beta - README2
 
-Este é o segundo README adicional. Pode ser usado para documentar processos específicos, como procedimentos de instalação ou configuração.
+Este guia fornece instruções sobre como configurar os certificados para o Jericho 2.3.0-beta.
 
-## Instalação
+## Configuração de Certificados
 
-Passos para instalar o projeto:
+1. Coloque os certificados em `C:\Users\LGEPSCD\jericho\tools\certificados`.
+2. Instale os certificados com acesso de administrador usando os comandos fornecidos.
 
-1. Clone o repositório
-2. Execute `npm install`
-3. Execute `npm start` para iniciar o servidor de desenvolvimento
-
-## Configuração
-
-Como configurar o projeto para diferentes ambientes.
+Certifique-se de substituir os caminhos dos certificados e do keystore conforme necessário.

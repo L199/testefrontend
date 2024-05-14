@@ -1,16 +1,11 @@
-# README 3
+# Configuração no IntelliJ IDEA - README3
 
-Este é o terceiro README adicional. Use-o para fornecer informações sobre como contribuir para o projeto, padrões de código, etc.
+Este guia fornece instruções sobre como configurar o IntelliJ IDEA para o desenvolvimento.
 
-## Contribuindo
+## Configuração no IntelliJ IDEA
 
-1. Faça um fork do repositório
-2. Crie uma branch para sua feature (`git checkout -b feature/fooBar`)
-3. Commit suas alterações (`git commit -am 'Add some fooBar'`)
-4. Push para a branch (`git push origin feature/fooBar`)
-5. Crie um novo Pull Request
-
-## Padrões de Código
-
-- Siga os padrões de código definidos pelo ESLint
-- Utilize Prettier para formatação
+1. Abra o IntelliJ IDEA.
+2. Vá para `Settings > Build, Execution, Deployment > Build Tools > Gradle`.
+3. Configure o Gradle conforme as especificações fornecidas.
+4. Configure o projeto com o SDK e o nível de linguagem conforme especificado.
+5. Execute o IntelliJ IDEA rodando o Gradle e clicando em Run 'Application'.
